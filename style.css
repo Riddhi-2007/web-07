@@ -1,0 +1,29 @@
+body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 30px;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 25px;
+    border:2px solid black;
+    border-radius: 15px;
+}
+.header {
+    text-align: center;
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 10px;
+}
+.Connections {
+    width: 300px;
+    height: 150px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: lightblue;
+    box-shadow: 5px 5px 10px gray;
+}
